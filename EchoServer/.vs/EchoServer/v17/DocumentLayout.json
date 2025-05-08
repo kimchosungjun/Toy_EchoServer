@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SungJun\\Desktop\\STUDY\\Toy_EchoServer\\EchoServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52708741-C7CF-4DB5-ADF1-12EC8BB1A50E}|Core\\Core.csproj|c:\\users\\sungjun\\desktop\\study\\toy_echoserver\\echoserver\\core\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52708741-C7CF-4DB5-ADF1-12EC8BB1A50E}|Core\\Core.csproj|solutionrelative:core\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9135D4-4560-4630-91F0-78A0A6A61A6F}|Client\\Client.csproj|c:\\users\\sungjun\\desktop\\study\\toy_echoserver\\echoserver\\client\\clientprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9135D4-4560-4630-91F0-78A0A6A61A6F}|Client\\Client.csproj|solutionrelative:client\\clientprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9135D4-4560-4630-91F0-78A0A6A61A6F}|Client\\Client.csproj|c:\\users\\sungjun\\desktop\\study\\toy_echoserver\\echoserver\\client\\clientsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9135D4-4560-4630-91F0-78A0A6A61A6F}|Client\\Client.csproj|solutionrelative:client\\clientsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643600E2-B91A-4AF4-AC07-65129741B44F}|EchoServer\\EchoServer.csproj|c:\\users\\sungjun\\desktop\\study\\toy_echoserver\\echoserver\\echoserver\\serverprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643600E2-B91A-4AF4-AC07-65129741B44F}|EchoServer\\EchoServer.csproj|solutionrelative:echoserver\\serverprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643600E2-B91A-4AF4-AC07-65129741B44F}|EchoServer\\EchoServer.csproj|c:\\users\\sungjun\\desktop\\study\\toy_echoserver\\echoserver\\echoserver\\serversession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643600E2-B91A-4AF4-AC07-65129741B44F}|EchoServer\\EchoServer.csproj|solutionrelative:echoserver\\serversession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643600E2-B91A-4AF4-AC07-65129741B44F}|EchoServer\\EchoServer.csproj|c:\\users\\sungjun\\desktop\\study\\toy_echoserver\\echoserver\\echoserver\\echoserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{643600E2-B91A-4AF4-AC07-65129741B44F}|EchoServer\\EchoServer.csproj|solutionrelative:echoserver\\echoserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52708741-C7CF-4DB5-ADF1-12EC8BB1A50E}|Core\\Core.csproj|c:\\users\\sungjun\\desktop\\study\\toy_echoserver\\echoserver\\core\\listener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52708741-C7CF-4DB5-ADF1-12EC8BB1A50E}|Core\\Core.csproj|solutionrelative:core\\listener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52708741-C7CF-4DB5-ADF1-12EC8BB1A50E}|Core\\Core.csproj|c:\\users\\sungjun\\desktop\\study\\toy_echoserver\\echoserver\\core\\connector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52708741-C7CF-4DB5-ADF1-12EC8BB1A50E}|Core\\Core.csproj|solutionrelative:core\\connector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52708741-C7CF-4DB5-ADF1-12EC8BB1A50E}|Core\\Core.csproj|c:\\users\\sungjun\\desktop\\study\\toy_echoserver\\echoserver\\core\\serveroption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52708741-C7CF-4DB5-ADF1-12EC8BB1A50E}|Core\\Core.csproj|solutionrelative:core\\serveroption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52708741-C7CF-4DB5-ADF1-12EC8BB1A50E}|Core\\Core.csproj|c:\\users\\sungjun\\desktop\\study\\toy_echoserver\\echoserver\\core\\receivebuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52708741-C7CF-4DB5-ADF1-12EC8BB1A50E}|Core\\Core.csproj|solutionrelative:core\\receivebuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52708741-C7CF-4DB5-ADF1-12EC8BB1A50E}|Core\\Core.csproj|c:\\users\\sungjun\\desktop\\study\\toy_echoserver\\echoserver\\core\\sendbuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52708741-C7CF-4DB5-ADF1-12EC8BB1A50E}|Core\\Core.csproj|solutionrelative:core\\sendbuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52708741-C7CF-4DB5-ADF1-12EC8BB1A50E}|Core\\Core.csproj|c:\\users\\sungjun\\desktop\\study\\toy_echoserver\\echoserver\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{52708741-C7CF-4DB5-ADF1-12EC8BB1A50E}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52708741-C7CF-4DB5-ADF1-12EC8BB1A50E}|Core\\Core.csproj|c:\\users\\sungjun\\desktop\\study\\toy_echoserver\\echoserver\\core\\core.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{52708741-C7CF-4DB5-ADF1-12EC8BB1A50E}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SendBuffer.cs",
+              "DocumentMoniker": "C:\\Users\\SungJun\\Desktop\\STUDY\\Toy_EchoServer\\EchoServer\\Core\\SendBuffer.cs",
+              "RelativeDocumentMoniker": "Core\\SendBuffer.cs",
+              "ToolTip": "C:\\Users\\SungJun\\Desktop\\STUDY\\Toy_EchoServer\\EchoServer\\Core\\SendBuffer.cs",
+              "RelativeToolTip": "Core\\SendBuffer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:28:16.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReceiveBuffer.cs",
+              "DocumentMoniker": "C:\\Users\\SungJun\\Desktop\\STUDY\\Toy_EchoServer\\EchoServer\\Core\\ReceiveBuffer.cs",
+              "RelativeDocumentMoniker": "Core\\ReceiveBuffer.cs",
+              "ToolTip": "C:\\Users\\SungJun\\Desktop\\STUDY\\Toy_EchoServer\\EchoServer\\Core\\ReceiveBuffer.cs",
+              "RelativeToolTip": "Core\\ReceiveBuffer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:27:56.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServerOption.cs",
+              "DocumentMoniker": "C:\\Users\\SungJun\\Desktop\\STUDY\\Toy_EchoServer\\EchoServer\\Core\\ServerOption.cs",
+              "RelativeDocumentMoniker": "Core\\ServerOption.cs",
+              "ToolTip": "C:\\Users\\SungJun\\Desktop\\STUDY\\Toy_EchoServer\\EchoServer\\Core\\ServerOption.cs",
+              "RelativeToolTip": "Core\\ServerOption.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:24:00.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Connector.cs",
+              "DocumentMoniker": "C:\\Users\\SungJun\\Desktop\\STUDY\\Toy_EchoServer\\EchoServer\\Core\\Connector.cs",
+              "RelativeDocumentMoniker": "Core\\Connector.cs",
+              "ToolTip": "C:\\Users\\SungJun\\Desktop\\STUDY\\Toy_EchoServer\\EchoServer\\Core\\Connector.cs",
+              "RelativeToolTip": "Core\\Connector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:22:13.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\SungJun\\Desktop\\STUDY\\Toy_EchoServer\\EchoServer\\Core\\Session.cs",
+              "RelativeDocumentMoniker": "Core\\Session.cs",
+              "ToolTip": "C:\\Users\\SungJun\\Desktop\\STUDY\\Toy_EchoServer\\EchoServer\\Core\\Session.cs",
+              "RelativeToolTip": "Core\\Session.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:22:03.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServerSession.cs",
+              "DocumentMoniker": "C:\\Users\\SungJun\\Desktop\\STUDY\\Toy_EchoServer\\EchoServer\\EchoServer\\ServerSession.cs",
+              "RelativeDocumentMoniker": "EchoServer\\ServerSession.cs",
+              "ToolTip": "C:\\Users\\SungJun\\Desktop\\STUDY\\Toy_EchoServer\\EchoServer\\EchoServer\\ServerSession.cs",
+              "RelativeToolTip": "EchoServer\\ServerSession.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:21:44.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EchoServer",
+              "DocumentMoniker": "C:\\Users\\SungJun\\Desktop\\STUDY\\Toy_EchoServer\\EchoServer\\EchoServer\\EchoServer.csproj",
+              "RelativeDocumentMoniker": "EchoServer\\EchoServer.csproj",
+              "ToolTip": "C:\\Users\\SungJun\\Desktop\\STUDY\\Toy_EchoServer\\EchoServer\\EchoServer\\EchoServer.csproj",
+              "RelativeToolTip": "EchoServer\\EchoServer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-08T05:21:00.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Core",
+              "DocumentMoniker": "C:\\Users\\SungJun\\Desktop\\STUDY\\Toy_EchoServer\\EchoServer\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "C:\\Users\\SungJun\\Desktop\\STUDY\\Toy_EchoServer\\EchoServer\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-08T05:20:48.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Listener.cs",
+              "DocumentMoniker": "C:\\Users\\SungJun\\Desktop\\STUDY\\Toy_EchoServer\\EchoServer\\Core\\Listener.cs",
+              "RelativeDocumentMoniker": "Core\\Listener.cs",
+              "ToolTip": "C:\\Users\\SungJun\\Desktop\\STUDY\\Toy_EchoServer\\EchoServer\\Core\\Listener.cs",
+              "RelativeToolTip": "Core\\Listener.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAIwCgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:16:38.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Core",
+              "DocumentMoniker": "C:\\Users\\SungJun\\Desktop\\STUDY\\Toy_EchoServer\\EchoServer\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "C:\\Users\\SungJun\\Desktop\\STUDY\\Toy_EchoServer\\EchoServer\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-08T05:20:51.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientSession.cs",
+              "DocumentMoniker": "C:\\Users\\SungJun\\Desktop\\STUDY\\Toy_EchoServer\\EchoServer\\Client\\ClientSession.cs",
+              "RelativeDocumentMoniker": "Client\\ClientSession.cs",
+              "ToolTip": "C:\\Users\\SungJun\\Desktop\\STUDY\\Toy_EchoServer\\EchoServer\\Client\\ClientSession.cs",
+              "RelativeToolTip": "Client\\ClientSession.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:19:10.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientProgram.cs",
+              "DocumentMoniker": "C:\\Users\\SungJun\\Desktop\\STUDY\\Toy_EchoServer\\EchoServer\\Client\\ClientProgram.cs",
+              "RelativeDocumentMoniker": "Client\\ClientProgram.cs",
+              "ToolTip": "C:\\Users\\SungJun\\Desktop\\STUDY\\Toy_EchoServer\\EchoServer\\Client\\ClientProgram.cs",
+              "RelativeToolTip": "Client\\ClientProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:18:40.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServerProgram.cs",
+              "DocumentMoniker": "C:\\Users\\SungJun\\Desktop\\STUDY\\Toy_EchoServer\\EchoServer\\EchoServer\\ServerProgram.cs",
+              "RelativeDocumentMoniker": "EchoServer\\ServerProgram.cs",
+              "ToolTip": "C:\\Users\\SungJun\\Desktop\\STUDY\\Toy_EchoServer\\EchoServer\\EchoServer\\ServerProgram.cs",
+              "RelativeToolTip": "EchoServer\\ServerProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:18:22.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
