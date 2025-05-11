@@ -13,10 +13,13 @@ namespace Core
         SocketAsyncEventArgs receiveArgs = new SocketAsyncEventArgs();
         SocketAsyncEventArgs sendArgs = new SocketAsyncEventArgs();
 
+        int connectFlag = 0; // 0 : Connect, 1: Disconnect
         public void Init(Socket _connectSocket)
         {
-            connectSocket = _connectSocket; 
-
+            connectSocket = _connectSocket;
+            receiveArgs.Completed += AfterReceivePacket;
+            sendArgs.Completed += AfterSendPacket;
+            OnReceivePacket();
         }
 
         // Connect, Disconnect, Send, Receive
@@ -32,9 +35,32 @@ namespace Core
         
         public void OnDisconnect()
         {
+            if (Interlocked.Exchange(ref connectFlag, 1) == 1)
+                return;
+            connectSocket.Shutdown(SocketShutdown.Both);
+            connectSocket.Close();
+            OnCompletedDisconnect();
+        }
+
+        void OnReceivePacket()
+        {
 
         }
 
+        void AfterReceivePacket(object _sender, SocketAsyncEventArgs _args)
+        {
+
+        }
+
+        void OnSendPacket()
+        {
+
+        }
+
+        void AfterSendPacket(object _sender, SocketAsyncEventArgs _args)
+        {
+
+        }
         #endregion
     }
 }

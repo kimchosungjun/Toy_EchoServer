@@ -62,8 +62,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 10,
@@ -74,8 +78,7 @@
               "RelativeToolTip": "Core\\SendBuffer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T05:28:16.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T05:28:16.416Z"
             },
             {
               "$type": "Document",
@@ -87,8 +90,7 @@
               "RelativeToolTip": "Core\\ReceiveBuffer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T05:27:56.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T05:27:56.553Z"
             },
             {
               "$type": "Document",
@@ -100,8 +102,7 @@
               "RelativeToolTip": "Core\\ServerOption.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T05:24:00.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T05:24:00.881Z"
             },
             {
               "$type": "Document",
@@ -113,8 +114,7 @@
               "RelativeToolTip": "Core\\Connector.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T05:22:13.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T05:22:13.03Z"
             },
             {
               "$type": "Document",
@@ -124,7 +124,7 @@
               "RelativeDocumentMoniker": "Core\\Session.cs",
               "ToolTip": "C:\\Users\\SungJun\\Desktop\\STUDY\\Toy_EchoServer\\EchoServer\\Core\\Session.cs",
               "RelativeToolTip": "Core\\Session.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T05:22:03.698Z",
               "EditorCaption": ""
@@ -139,38 +139,31 @@
               "RelativeToolTip": "EchoServer\\ServerSession.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T05:21:44.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T05:21:44.994Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "EchoServer",
+              "Title": "EchoServer.csproj",
               "DocumentMoniker": "C:\\Users\\SungJun\\Desktop\\STUDY\\Toy_EchoServer\\EchoServer\\EchoServer\\EchoServer.csproj",
               "RelativeDocumentMoniker": "EchoServer\\EchoServer.csproj",
               "ToolTip": "C:\\Users\\SungJun\\Desktop\\STUDY\\Toy_EchoServer\\EchoServer\\EchoServer\\EchoServer.csproj",
               "RelativeToolTip": "EchoServer\\EchoServer.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-08T05:21:00.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T05:21:00.845Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Core",
+              "Title": "Core.csproj",
               "DocumentMoniker": "C:\\Users\\SungJun\\Desktop\\STUDY\\Toy_EchoServer\\EchoServer\\Core\\Core.csproj",
               "RelativeDocumentMoniker": "Core\\Core.csproj",
               "ToolTip": "C:\\Users\\SungJun\\Desktop\\STUDY\\Toy_EchoServer\\EchoServer\\Core\\Core.csproj",
               "RelativeToolTip": "Core\\Core.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-08T05:20:48.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+              "WhenOpened": "2025-05-08T05:20:48.69Z"
             },
             {
               "$type": "Document",
@@ -182,8 +175,7 @@
               "RelativeToolTip": "Core\\Listener.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAIwCgAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T05:16:38.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T05:16:38.766Z"
             },
             {
               "$type": "Document",
@@ -194,8 +186,7 @@
               "ToolTip": "C:\\Users\\SungJun\\Desktop\\STUDY\\Toy_EchoServer\\EchoServer\\Core\\Core.csproj",
               "RelativeToolTip": "Core\\Core.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-08T05:20:51.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T05:20:51.575Z"
             },
             {
               "$type": "Document",
@@ -207,8 +198,7 @@
               "RelativeToolTip": "Client\\ClientSession.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T05:19:10.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T05:19:10.814Z"
             },
             {
               "$type": "Document",
@@ -220,8 +210,7 @@
               "RelativeToolTip": "Client\\ClientProgram.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T05:18:40.206Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T05:18:40.206Z"
             },
             {
               "$type": "Document",
@@ -233,8 +222,7 @@
               "RelativeToolTip": "EchoServer\\ServerProgram.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T05:18:22.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T05:18:22.272Z"
             }
           ]
         }
