@@ -33,7 +33,23 @@ namespace Core
         }
         #endregion
 
-        #region Write & Read
+        // Clean & Read & Write
+        #region Fundamental Methods
+        public void Clean()
+        {
+            if(readPosition == writePosition)
+            {
+                readPosition = writePosition = 0;
+            }
+            else
+            {
+                int diff = writePosition - readPosition;
+                Array.Copy(buffer.Array, buffer.Offset + readPosition, buffer.Array, buffer.Offset, diff);
+                readPosition = 0;
+                writePosition = diff;
+            }
+        }
+
         /// <summary>
         /// if you can read return True
         /// </summary>
